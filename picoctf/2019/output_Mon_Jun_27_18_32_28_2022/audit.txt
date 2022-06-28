@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Mon Jun 27 18:32:28 2022
+Invocation: foremost -v the_numbers.png -T 
+Output directory: /home/amal/Downloads/picoctf/output_Mon_Jun_27_18_32_28_2022
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: the_numbers.png
+Start: Mon Jun 27 18:32:28 2022
+Length: 98 KB (100721 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.png 	      98 KB 	          0 	  (774 x 433)
+Finish: Mon Jun 27 18:32:28 2022
+
+1 FILES EXTRACTED
+	
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Mon Jun 27 18:32:28 2022
