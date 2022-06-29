@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Tue Jun 28 19:55:49 2022
+Invocation: foremost -v flag.png -T 
+Output directory: /home/amal/Downloads/what-the-ctf/picoctf/2019/flags/output_Tue_Jun_28_19_55_49_2022
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: flag.png
+Start: Tue Jun 28 19:55:49 2022
+Length: 42 KB (43257 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.png 	      42 KB 	          0 	  (1642 x 1095)
+Finish: Tue Jun 28 19:55:49 2022
+
+1 FILES EXTRACTED
+	
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Tue Jun 28 19:55:49 2022

@@ -1,0 +1,21 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Tue Jun 28 16:33:48 2022
+Invocation: foremost -v capture.pcap -T 
+Output directory: /home/amal/Downloads/what-the-ctf/picoctf/2019/output_Tue_Jun_28_16_33_48_2022
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: capture.pcap
+Start: Tue Jun 28 16:33:48 2022
+Length: 233 KB (239455 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+Finish: Tue Jun 28 16:33:48 2022
+
+0 FILES EXTRACTED
+	
+------------------------------------------------------------------
+
+Foremost finished at Tue Jun 28 16:33:48 2022

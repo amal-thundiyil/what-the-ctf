@@ -1,0 +1,21 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Wed Jun 29 09:59:36 2022
+Invocation: foremost -v whitepages.txt 
+Output directory: /home/amal/Documents/gh/side_projects/what-the-ctf/picoctf/2019/white_pages/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: whitepages.txt
+Start: Wed Jun 29 09:59:36 2022
+Length: 2 KB (2982 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+Finish: Wed Jun 29 09:59:36 2022
+
+0 FILES EXTRACTED
+	
+------------------------------------------------------------------
+
+Foremost finished at Wed Jun 29 09:59:36 2022
